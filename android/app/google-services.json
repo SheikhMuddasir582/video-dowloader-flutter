@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "405107737161",
+    "project_id": "admob-bd86f",
+    "storage_bucket": "admob-bd86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405107737161:android:4c063bcde36788cc09b598",
+        "android_client_info": {
+          "package_name": "com.example.ad_mob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jZMGa4oIZGduqz8Uu5x3498iaFD1EkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-2470852571705826~6291776643"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405107737161:android:2e86cccd655a7f5909b598",
+        "android_client_info": {
+          "package_name": "com.example.ad_mob2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jZMGa4oIZGduqz8Uu5x3498iaFD1EkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405107737161:android:06946524a520d3ca09b598",
+        "android_client_info": {
+          "package_name": "com.example.video_downloader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jZMGa4oIZGduqz8Uu5x3498iaFD1EkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
